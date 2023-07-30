@@ -68,3 +68,12 @@ This project demonstrates the CRUD operation on a csv file which is stored in ba
 
 [ISC](https://choosealicense.com/licenses/isc/)
 
+
+## Running Tests
+
+To run tests, run the following command
+
+```bash
+  npm run test
+```
+
