@@ -1,0 +1,11 @@
+.pagination {
+  margin: auto;
+  justify-content: center;
+}
+.custom-button {
+  border-radius: 50% !important;
+  min-width: 30px !important;
+  min-height: 30px !important;
+  width: 30px !important;
+  height: 30px !important;
+}

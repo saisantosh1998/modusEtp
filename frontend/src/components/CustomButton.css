@@ -1,0 +1,17 @@
+.custom-button {
+  border-radius: 50% !important;
+  min-width: 30px !important;
+  min-height: 30px !important;
+  width: 30px !important;
+  height: 30px !important;
+}
+.selected {
+  background-color: white !important;
+  border: 1px solid #1976d2 !important;
+  color: black !important;
+  border-radius: 50% !important;
+  min-width: 30px !important;
+  min-height: 30px !important;
+  width: 30px !important;
+  height: 30px !important;
+}

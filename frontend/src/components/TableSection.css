@@ -1,0 +1,9 @@
+.delete-button {
+  background-color: red !important;
+  text-transform: capitalize !important;
+  border-radius: 500px !important;
+}
+.delete-button:hover {
+  background-color: red !important;
+  text-transform: capitalize !important;
+}

@@ -1,0 +1,16 @@
+.navbar-root {
+  width: 100%;
+}
+.navbar-root header {
+  background-color: black !important;
+  height:8vh;
+}
+
+.navbar-title {
+  flex-grow: 1;
+}
+
+.navbar-button {
+  margin-left: auto;
+  background-color: green !important;
+}
